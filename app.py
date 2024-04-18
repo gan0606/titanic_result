@@ -36,7 +36,7 @@ def main():
 
     # ファイルの設定
     # 訓練済みのモデルファイル
-    model_file = "./catmodel2.pkl"
+    model_file = "./catmodel.pkl"
     # 読み込めているかを確認
     is_model_file = os.path.isfile(model_file)
 
