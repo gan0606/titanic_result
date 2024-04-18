@@ -1,4 +1,4 @@
-# titanic_result
+# titanic survivor analysis
 
 ## データ分析ノート
 https://www.kaggle.com/code/yuukiiwakura/classifier-by-catboost
